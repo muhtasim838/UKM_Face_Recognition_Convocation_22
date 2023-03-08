@@ -1,4 +1,4 @@
-# Real Time Face Recognition App using TfLite
+# Face Recognition based Biometric Authentication System for UKM Convocation 2022
 
 UKM_Face_Recognition_Convocation_22 is developed utilizing the pretrained MobileFaceNets model for UKM convocation 2022. The frontend is developed using android studio (java) and react.js for backend. This project recognize visitors accurately and complete biometric authentication for visitors. Visitors facial images were added prior to the event.
 
