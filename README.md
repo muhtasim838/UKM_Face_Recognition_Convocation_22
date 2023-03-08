@@ -23,9 +23,9 @@ UKM_Face_Recognition_Convocation_22 is developed utilizing the pretrained Mobile
 ## Usage
 <table>
   <tr>
-    <td><b>1.Add Face</b></td>
-     <td><b>2.Import Face</b></td>
-     <td><b>3.Recognize Face</b></td>
+    <td><b>1.Capture Live Facial Image</b></td>
+     <td><b>2.Recognize the Face</b></td>
+     <td><b>3.Implementation</b></td>
      
   </tr>
   <tr>
@@ -36,17 +36,4 @@ UKM_Face_Recognition_Convocation_22 is developed utilizing the pretrained Mobile
   </tr>
  </table>
  
-
- 
- <table>
-  <tr>
-    <td><b>Actions</b></td>
-     <td><b>View Recognitions</b></td>
-     <td><b>Update Recognitions</b></td>
-  </tr>
-  <tr>
-    <td><img src="demo/actions.jpeg" width=270 height=480></td>
-    <td><img src="demo/view_reco.jpeg" width=270 height=480></td>
-    <td><img src="demo/update_reco.jpeg" width=270 height=480></td>
-  </tr>
- </table>
+ Copyright @ Institute IR4.0 (IIR4.0)
