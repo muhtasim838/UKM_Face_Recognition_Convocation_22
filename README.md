@@ -14,7 +14,7 @@ UKM_Face_Recognition_Convocation_22 is developed utilizing the pretrained Mobile
 - CameraX
 - ML Kit
 - TensorFlow Lite
-- React.js (Not included in this repository, for copyright purposes)
+- React.js (Not included in this repository, for copyright issues)
 
 ## Model 
 - MobileFaceNet : [Research Paper](https://arxiv.org/ftp/arxiv/papers/1804/1804.07573.pdf)
