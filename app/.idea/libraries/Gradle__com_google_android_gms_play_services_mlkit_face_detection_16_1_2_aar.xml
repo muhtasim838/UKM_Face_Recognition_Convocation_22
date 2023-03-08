@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-mlkit-face-detection:16.1.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0b5d3c20398f5ceb3658181c4c8c0d0f/jetified-play-services-mlkit-face-detection-16.1.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0b5d3c20398f5ceb3658181c4c8c0d0f/jetified-play-services-mlkit-face-detection-16.1.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0b5d3c20398f5ceb3658181c4c8c0d0f/jetified-play-services-mlkit-face-detection-16.1.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.gms/play-services-mlkit-face-detection/16.1.2/c9e1ba333147efb6a28300c43ff0e1d92cc57cd9/play-services-mlkit-face-detection-16.1.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

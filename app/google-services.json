@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "119447686852",
+    "project_id": "minarvms-855e7",
+    "storage_bucket": "minarvms-855e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119447686852:android:8b2a388f2e554a6767c391",
+        "android_client_info": {
+          "package_name": "com.atharvakale.facerecognition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119447686852-ldp9vg4e3ghmtaih0isjoheoihqjq62n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOtGymR9gVd-VfR8OfdxZ-OysTuKDuXg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119447686852-ldp9vg4e3ghmtaih0isjoheoihqjq62n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
