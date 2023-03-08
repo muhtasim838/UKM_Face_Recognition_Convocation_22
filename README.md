@@ -1,6 +1,6 @@
 # Real Time Face Recognition App using TfLite
 
-A minimalistic Face Recognition module which can be easily incorporated in any Android project.
+UKM_Face_Recognition_Convocation_22 is developed utilizing the pretrained MobileFaceNets model for UKM convocation 2022. The frontend is developed using android studio (java) and react.js for backend. This project recognize visitors accurately and complete biometric authentication for visitors. Visitors facial images were added prior to the event.
 
 ## Key Features 
 - Fast and very accurate.
@@ -19,14 +19,6 @@ A minimalistic Face Recognition module which can be easily incorporated in any A
 ## Model 
 - MobileFaceNet : [Research Paper](https://arxiv.org/ftp/arxiv/papers/1804/1804.07573.pdf)
 - [Implementation](https://github.com/sirius-ai/MobileFaceNet_TF)
-
-## Installation
-
-Use Import from Version Control in Android Studio or Clone repo and open the project in Android Studio.
-
-```bash
-git clone https://github.com/atharvakale31/Face_Recognition_Android.git
-```
 
 ## Usage
 <table>
@@ -58,14 +50,3 @@ git clone https://github.com/atharvakale31/Face_Recognition_Android.git
     <td><img src="demo/update_reco.jpeg" width=270 height=480></td>
   </tr>
  </table>
- 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-
-
-# Action Items
-- [ ] Improve Performance(Code Optimization)
-- [ ] Auto face orientation for Import Photo Action.
-- [ ] iOS application
-
