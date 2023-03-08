@@ -29,9 +29,9 @@ UKM_Face_Recognition_Convocation_22 is developed utilizing the pretrained Mobile
      
   </tr>
   <tr>
-    <td><img src="demo/add_face.gif" width=270 height=480></td>
-  <td><img src="demo/import photo.gif" width=270 height=480></td>
-    <td><img src="demo/recognize_face.gif" width=270 height=480></td>
+    <td><img src="demo/Picture1.jpg" width=270 height=480></td>
+  <td><img src="demo/Picture2.jpg" width=270 height=480></td>
+    <td><img src="demo/Picture3.jpg" width=270 height=480></td>
   
   </tr>
  </table>
