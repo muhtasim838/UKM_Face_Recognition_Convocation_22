@@ -14,6 +14,7 @@ A minimalistic Face Recognition module which can be easily incorporated in any A
 - CameraX
 - ML Kit
 - TensorFlow Lite
+- React.js (Not included in this repository, for copyright purposes)
 
 ## Model 
 - MobileFaceNet : [Research Paper](https://arxiv.org/ftp/arxiv/papers/1804/1804.07573.pdf)
@@ -26,7 +27,6 @@ Use Import from Version Control in Android Studio or Clone repo and open the pro
 ```bash
 git clone https://github.com/atharvakale31/Face_Recognition_Android.git
 ```
-Application file : [Face_Recognition.apk](https://drive.google.com/file/d/1l1ldvOUkI2y8WIq2IowxEiiAdhU2twYH/view?usp=sharing)
 
 ## Usage
 <table>
